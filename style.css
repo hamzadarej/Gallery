@@ -3,64 +3,82 @@ h1 {
 }
 h1 span {
   text-transform: uppercase;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: 'Courier New', Courier, monospace;
   color: aquamarine;
 }
 body {
   background-color: snow;
 }
 div {
-  
-
   display: inline-block;
   width: 20rem;
   height: 20rem;
   padding: 10px;
-  display: inline-block;
+ 
 
-  border: aquamarine 2px solid;
-  filter: grayscale(90%);
-  
 }
 img {
   width: 20rem;
   height: 20rem;
+  filter: grayscale(80%);
+  position: absolute;
+  border: aquamarine 10px solid;
+  transition: 1s;
+  z-index: auto;
+  opacity: 0.7;
 }
-.i1 {
+#i1 {
   transform: rotate(10deg);
-  position: relative;
-  left: 4rem;
-  z-index: 1;
-  opacity: 0.50;
+  top: 20rem;
+  left: 20rem;
   
-
+  
 }
-.i2 {
+#i2 {
   transform: rotate(15deg);
 
-  position: relative;
-  bottom: 8rem;
-  right: 1rem;
-  z-index: -1;
-  opacity: 0.60;
+  
+  top: 15rem;
+  right: 58rem;
+ 
 }
-.i3 {
-  transform: rotate(5deg);
-  position: relative;
-  bottom: 10rem;
-  right: 4rem;
-  z-index: -2;
-  opacity: 0.70;
+#i3 {
+  transform: rotate(20deg);
+ 
+  top: 10rem;
+  right: 40rem;
+  
 }
-.i4 {
-  transform: rotate(-20deg);
-  position: relative;
-  bottom: 15rem;
-  right: 12rem;
-  z-index: -3;
-  opacity: 0.80;
+#i4 {
+  transform: rotate(15deg);
+  
+  top: 5rem;
+  right: 22rem;
+  
 }
-section {
-    margin-top: 20%;
-  padding-left: 20%;
+
+#i1:hover {
+  transform: scale(1, 1.2);
+  cursor: pointer;
+  opacity: 1;
+  filter: grayscale(0%);
+}
+
+#i2:hover {
+  transform: scale(1, 1.2);
+  cursor: pointer;
+  opacity: 1;
+  filter: grayscale(0%);
+}
+#i3:hover {
+  transform: scale(1, 1.2);
+  cursor: pointer;
+  opacity: 1;
+  filter: grayscale(0%);
+}
+#i4:hover {
+  transform: scale(1, 1.2);
+  cursor: pointer;
+  opacity: 1;
+  filter: grayscale(0%);
 }
