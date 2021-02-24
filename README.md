@@ -8,4 +8,5 @@ transforn :rotate( 5deg); \
 and more ....
 
 [Html](https://github.com/hamzadarej/Gallery/blob/master/index.html)\
-[Css](https://github.com/hamzadarej/Gallery/blob/master/style.css)
+[Css](https://github.com/hamzadarej/Gallery/blob/master/style.css)\
+[go to the page](https://hamzadarej.github.io/Gallery/)
