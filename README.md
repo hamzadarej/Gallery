@@ -8,4 +8,4 @@ transforn :rorate( 5deg);
 
 
 [Html](https://github.com/hamzadarej/Gallery/blob/master/index.html)\
-[Css](https://github.com/hamzadarej/Gallery/blob/master/style.css)\
+[Css](https://github.com/hamzadarej/Gallery/blob/master/style.css)
