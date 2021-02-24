@@ -4,7 +4,7 @@
 Css style :\
 display : inline-block ;\
 position :relative;\
-transforn :rorate( 5deg); \
+transforn :rotate( 5deg); \
 and more ....
 
 [Html](https://github.com/hamzadarej/Gallery/blob/master/index.html)\
