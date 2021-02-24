@@ -1,10 +1,10 @@
 # Gallery
  it's about my first Gallery using Html & Css
 
-Css style :
-display : inline-block ;
-position :relative;
-transforn :rorate( 5deg);
+Css style :\
+display : inline-block ;\
+position :relative;\
+transforn :rorate( 5deg);\
 
 
 [Html](https://github.com/hamzadarej/Gallery/blob/master/index.html)\
