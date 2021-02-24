@@ -31,6 +31,7 @@ img {
   position: relative;
   left: 4rem;
   z-index: 1;
+  opacity: 0.50;
   
 
 }
@@ -41,6 +42,7 @@ img {
   bottom: 8rem;
   right: 1rem;
   z-index: -1;
+  opacity: 0.60;
 }
 .i3 {
   transform: rotate(5deg);
@@ -48,6 +50,7 @@ img {
   bottom: 10rem;
   right: 4rem;
   z-index: -2;
+  opacity: 0.70;
 }
 .i4 {
   transform: rotate(-20deg);
@@ -55,6 +58,7 @@ img {
   bottom: 15rem;
   right: 12rem;
   z-index: -3;
+  opacity: 0.80;
 }
 section {
     margin-top: 20%;
