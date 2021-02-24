@@ -1,0 +1,62 @@
+h1 {
+  text-align: center;
+}
+h1 span {
+  text-transform: uppercase;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: aquamarine;
+}
+body {
+  background-color: snow;
+}
+div {
+  
+
+  display: inline-block;
+  width: 20rem;
+  height: 20rem;
+  padding: 10px;
+  display: inline-block;
+
+  border: aquamarine 2px solid;
+  filter: grayscale(90%);
+  
+}
+img {
+  width: 20rem;
+  height: 20rem;
+}
+.i1 {
+  transform: rotate(10deg);
+  position: relative;
+  left: 4rem;
+  z-index: 1;
+  
+
+}
+.i2 {
+  transform: rotate(15deg);
+
+  position: relative;
+  bottom: 8rem;
+  right: 1rem;
+  z-index: -1;
+}
+.i3 {
+  transform: rotate(5deg);
+  position: relative;
+  bottom: 10rem;
+  right: 4rem;
+  z-index: -2;
+}
+.i4 {
+  transform: rotate(-20deg);
+  position: relative;
+  bottom: 15rem;
+  right: 12rem;
+  z-index: -3;
+}
+section {
+    margin-top: 20%;
+  padding-left: 20%;
+}
