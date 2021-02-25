@@ -26,6 +26,7 @@ img {
   transition: 1s;
   z-index: auto;
   opacity: 0.7;
+  border-radius: 15px;
 }
 #i1 {
   transform: rotate(10deg);
